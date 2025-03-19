@@ -5,4 +5,4 @@ KAPPA SPSS File.sav which includes the final SPSS dataset file used for calculat
 List C.txt / List N.txt / List P.txt / List V.txt which include fixed lists of C, N, V and P which were used during annotation process. 
 Rater 1.xlsx and Rater 2.xlsx include annotated file of each rater.
 XML-Corpus.xml includes the final result of this project in XML format. 
-Stanza Code - Preprocessing.ipynb, XML_Converter.ipynb and XML_Grab.ipynb respectively include Python files for preprocessing the text files using Stanford's Stanza, converting the Excel file to XML and to work with XML corpus for extracting specific info and query. 
+Stanza Code - Preprocessing.ipynb, XML_Converter.ipynb and XML_Query.ipynb respectively include Python files for preprocessing the text files using Stanford's Stanza, converting the Excel file to XML and to query the XML corpus for extracting specific info. 
